@@ -1,6 +1,6 @@
 ## Hi there coders or browsing people, my name is Thomas.
 
-![Visitor Count](https://profile-counter.glitch.me/{AllyOMara}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{Thomas-OMara}/count.svg)
 
 - 🔭 I’m currently working on smlll fun projects to learn basic coding.
 - 🌱 I’m currently learning python as it's the easiest...
