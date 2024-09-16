@@ -7,6 +7,6 @@
 - 👯 I’m looking to collaborate on a video game, when I am older, if I persure a coding career. 
 - 🤔 I’m looking for help with leraning basic code to learn to basic video games. (Without Graphics).
 - 💬 Ask me about games as I am very intersted in them, espically FPS games like: CS2, Valorant, (My Favourite Game Is Watch Dogs 2).
-- 📫 How to reach me: On my discord being; **geometrydashplayerxx11**, Display name being DeathKillerXx11 also my Username in games.
 - ⚡ Fun fact: I also, on top of coding, am learning how to make music.
-- Thanks For Reading all of that information about myself, have a splendid day!!!
+  
+Thanks For Reading all of that information about myself, have a splendid day!!!
