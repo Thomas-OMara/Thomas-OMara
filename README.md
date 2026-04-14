@@ -1,4 +1,4 @@
-## Hi there coders or browsing people, my name is Thomas.
+## Hello, I'm Thomas.
 
 ![Visitor Count](https://profile-counter.glitch.me/{Thomas-OMara}/count.svg)
 
